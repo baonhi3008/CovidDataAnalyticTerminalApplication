@@ -1,6 +1,10 @@
 # CovidDataAnalyticTerminalApplication
 
 ## Terminal approach for Covid Data Analytics. 
+### About 
+- This repository is the written in Java as terminal approach application for initial data analytic using csv file form WHO. The application let user choose the way of specifying time range, calculation methods and display methods from interactive terminal command. 
+
+--------------------------------------------------
 
 Problem details
 The COVID-19 pandemic is becoming worse over time. Although not having a firm background in medicine and health, this project aims to contribute to the community in fighting this battle. By reading science articles, you know that health decision-makers need to process a lot of data to make informed and insightful decisions. 
